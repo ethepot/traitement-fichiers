@@ -45,5 +45,3 @@ Ce projet met en place une chaîne automatisée pour le traitement de fichiers, 
 ## 👤 Auteur
 
 - Ewen Thépot
-
-## 📄 Licence
