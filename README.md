@@ -45,3 +45,6 @@ Ce projet met en place une chaîne automatisée pour le traitement de fichiers, 
 ## 👤 Auteur
 
 - Ewen Thépot
+- Paolo Perche
+- Clément Philippo
+- Gabin Chevalier
